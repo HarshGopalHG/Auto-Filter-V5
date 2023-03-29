@@ -42,7 +42,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Streamerview Database")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/streamerviewgroup')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/PiraTedCityGroup')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/cynitebackup')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/cynitesupport')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
